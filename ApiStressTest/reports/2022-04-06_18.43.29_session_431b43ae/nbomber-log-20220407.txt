@@ -1,0 +1,8 @@
+2022-04-07 00:13:50.349 +05:30 [INF] [ThreadId:1] NBomber '2.1.5' Started a new session: '2022-04-06_18.43.29_session_431b43ae'.
+2022-04-07 00:13:50.513 +05:30 [INF] [ThreadId:1] NBomber started as single node.
+2022-04-07 00:13:50.603 +05:30 [INF] [ThreadId:4] Plugins: no plugins were loaded.
+2022-04-07 00:13:50.604 +05:30 [INF] [ThreadId:4] Reporting sinks: no reporting sinks were loaded.
+2022-04-07 00:13:50.604 +05:30 [INF] [ThreadId:4] Starting init...
+2022-04-07 00:13:50.627 +05:30 [INF] [ThreadId:4] Target scenarios: 'simple_http'.
+2022-04-07 00:13:50.643 +05:30 [INF] [ThreadId:4] Init finished.
+2022-04-07 00:13:50.650 +05:30 [INF] [ThreadId:6] Starting warm up...
